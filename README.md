@@ -1,12 +1,12 @@
 # Tic-Tac-Toe with AI
 
-This project implements a Tic-Tac-Toe game in Python where a human player competes against an AI opponent using the Minimax algorithm with alpha-beta pruning for optimal moves.
-
 ## Project Overview
 
-## Language: Python
+This project implements a Tic-Tac-Toe game in Python where a human player competes against an AI opponent using the Minimax algorithm with alpha-beta pruning for optimal moves.
 
-## Algorithm: Minimax with alpha-beta pruning
+Language: Python
+
+Algorithm: Minimax with alpha-beta pruning
 
 ## Features:
 - Interactive command-line Tic-Tac-Toe game
