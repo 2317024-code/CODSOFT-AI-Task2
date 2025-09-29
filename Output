@@ -1,0 +1,43 @@
+Welcome
+|   |   |   |
+|   |   |   |
+|   |   |   |
+Enter your move(1-9): 5
+|   |   |   |
+|   | X |   |
+|   |   |   |
+AI is making a move..
+| 0 |   |   |
+|   | X |   |
+|   |   |   |
+Enter your move(1-9): 1
+Invalid move. Try again.
+Enter your move(1-9): 3
+| 0 |   | X |
+|   | X |   |
+|   |   |   |
+AI is making a move..
+| 0 |   | X |
+|   | X |   |
+| 0 |   |   |
+Enter your move(1-9): 4
+| 0 |   | X |
+| X | X |   |
+| 0 |   |   |
+AI is making a move..
+| 0 |   | X |
+| X | X | 0 |
+| 0 |   |   |
+Enter your move(1-9): 8
+| 0 |   | X |
+| X | X | 0 |
+| 0 | X |   |
+AI is making a move..
+| 0 | 0 | X |
+| X | X | 0 |
+| 0 | X |   |
+Enter your move(1-9): 9
+| 0 | 0 | X |
+| X | X | 0 |
+| 0 | X | X |
+It's a draw!
